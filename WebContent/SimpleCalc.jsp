@@ -1,4 +1,4 @@
-<%@ page import="code.calc.Calc"%>
+<%@ page import="calc.calc.sq.mvn.Calc"%>
 
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
