@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>calc</groupId>
-	<artifactId>calculator</artifactId>
+	<artifactId>cal.sq.mvn</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<packaging>war</packaging>
 
@@ -130,7 +130,7 @@
 			</plugin>
 			<plugin>
 				<groupId>calc</groupId>
-				<artifactId>calculator</artifactId>
+				<artifactId>cal.sq.mvn</artifactId>
 				<version>0.0.2-SNAPSHOT</version>
 			</plugin>
 		</plugins>
